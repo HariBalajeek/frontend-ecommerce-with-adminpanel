@@ -1,5 +1,5 @@
 // Instead of 'http://localhost:5000/api'
-export const API_BASE_URL = 'https://backend-ecommerce-with-admincontrol.onrender.com/api'; 
+export const API_BASE_URL = '/api'; 
 
 export const ROUTES = {
   HOME: '/',

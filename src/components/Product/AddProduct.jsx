@@ -8,7 +8,7 @@ const AddProduct = ({ product, onClose, onSave }) => {
     name: '',
     brand: '',
     description: '',
-    price: '',
+    price: '', 
     stockQuantity: ''
   });
   const [loading, setLoading] = useState(false);
